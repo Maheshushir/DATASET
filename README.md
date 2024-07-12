@@ -12,5 +12,5 @@ Include any additional notes, disclaimers, or special instructions for using the
 
 ## Contact
 
-If you have any questions about the datasets or would like to collaborate on a project related to this work, feel free to reach out to me at (mailto: 135790mahesh@gmail.com).
+If you have any questions about the datasets or would like to collaborate on a project related to this work, feel free to reach out to me at (Mail to: 135790mahesh@gmail.com).
 
